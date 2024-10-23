@@ -1,7 +1,5 @@
 # User Stories
 
-Reference the Writing User Stories final project guide in the course portal for more information about how to complete each of the sections below.
-
 ## Outline User Roles
 
 1. **Player**: A user who is working on personal development and grows a tree character through completing challenges, habits, and skill-building tasks.
