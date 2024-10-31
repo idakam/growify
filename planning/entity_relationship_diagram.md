@@ -1,6 +1,6 @@
 # Entity Relationship Diagram
 
-Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
+![image](https://github.com/user-attachments/assets/8d9f2721-2340-48ac-96bc-bd7c11941abd)
 
 ## Create the List of Tables
 
