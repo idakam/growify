@@ -16,7 +16,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 ![SkillsPaths - ida](https://github.com/user-attachments/assets/8e421223-ddc0-43dd-a707-a7c03d1ba8d9)
 
 
-## Wireframe 3: Landing Page
+## Wireframe 3: Challenges and Landing Page
 
 ![Challenges - Ida](https://github.com/user-attachments/assets/cc4ed9ce-a4af-46e6-9f63-e617d099ebfa)
 
